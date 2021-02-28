@@ -1,0 +1,1 @@
+print("This is secon day of git course")
